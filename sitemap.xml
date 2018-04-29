@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dwalkr.github.io/sawmill/categories/</loc>
+    <loc>https://jonaseltes.github.io/sawmill-starter/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dwalkr.github.io/sawmill/</loc>
+    <loc>https://jonaseltes.github.io/sawmill-starter/</loc>
   </url>
   
   <url>
-    <loc>https://dwalkr.github.io/sawmill/tags/</loc>
+    <loc>https://jonaseltes.github.io/sawmill-starter/tags/</loc>
     <priority>0</priority>
   </url>
   
