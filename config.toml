@@ -1,4 +1,4 @@
-baseURL = "https://dwalkr.github.io/sawmill/"
+baseURL = "https://jonaseltes.github.io/sawmill-starter/"
 languageCode = "en-us"
 theme = "sawmill"
 title = "Sawmill"
@@ -6,7 +6,7 @@ title = "Sawmill"
 name = "DJ Walker"
 [[menu.main]]
 name = "View on Github"
-url = "https://github.com/dwalkr/sawmill"
+url = "https://jonaseltes.github.io/sawmill-starter/"
 weight = 10
 [params]
 logo = "/logo.svg"
